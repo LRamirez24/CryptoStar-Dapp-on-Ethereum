@@ -136,3 +136,10 @@ compilers: {
 ---
 
 Do not use the [Old depreacted zipped starter code](https://s3.amazonaws.com/video.udacity-data.com/topher/2019/January/5c51c4c0_project-5-starter-code/project-5-starter-code.zip)
+
+
+Truffle version used: 5.0.2
+Open Zepplin version: openzeppelin-solidity@2.3
+My ERC-721 Token Name: Aztec Coin
+My ERC-721 Token Symbol: AZC
+My token address on the Rinkeby Network: 0x5a9f2E5AC13410C81Ad7c1c4aD92794BDD18c2e5
